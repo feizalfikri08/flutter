@@ -15,7 +15,7 @@ class HomePage extends StatelessWidget {
       theme: ThemeData(
         primaryColor: Color(0xffff6101),
       ),
-      home: MyHomePage(title: 'Sales Dashboard 2018'),
+      home: MyHomePage(title: 'Sales Monitoring'),
     );
   }
 }
